@@ -1,2 +1,2 @@
-# iot-smarthome-PoC
-iot-smarthome-PoC
+# IoT-smarthome-PoC
+IoT-smarthome-PoC
